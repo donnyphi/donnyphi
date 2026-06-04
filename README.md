@@ -9,20 +9,20 @@ I’m an incoming MIT student interested in math, computer science, education te
 A Streamlit app that helps pharmacy technician students practice dosage calculations and certification-style pharmacy math.
 
 - Code: https://github.com/donnyphi/pharmtech-math-lab
-- Live app: Add Streamlit link here
+- Live app: https://donnyphi-dose-drill.streamlit.app/
 
 ### Rx Entry Simulator
 
 A Streamlit simulator that helps pharmacy technician students practice prescription entry, label interpretation, and common pharmacy workflow scenarios.
 
 - Code: https://github.com/donnyphi/donnyphi-rx-entry-sim
-- Live app: Add Streamlit link here
+- Live app: https://donnyphi-rx-lab.streamlit.app/
 
 ### Lone Star Academics
 
 An education platform for academic competition practice and student learning.
 
-- Live site: Add live site link here
+- Live site: https://www.lonestaracademics.com/
 - Repo: private because it contains proprietary question-bank infrastructure and product logic
 
 ## Tech I’m Using
