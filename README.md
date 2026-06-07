@@ -27,7 +27,7 @@ An education platform for academic competition practice and student learning.
 
 ## Tech I’m Using
 
-Python, Streamlit, GitHub, and AI-assisted coding workflows.
+Python, Streamlit, GitHub, and Claude Code/Codex CLI
 
 ## Current Focus
 
