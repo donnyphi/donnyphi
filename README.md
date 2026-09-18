@@ -1,37 +1,31 @@
-# Hi, I’m Donny 👋
+# Hi, I'm Donny 👋
 
-I’m an incoming MIT student interested in math, computer science, education technology, and building useful tools for students.
+MIT '30 studying Physics and Computer Science (6-4). I'm into quant, physics, and building software people actually use.
 
-## Current Projects
-
-### Rx Entry Simulator
-
-A Streamlit simulator that helps pharmacy technician students practice prescription entry, label interpretation, and common pharmacy workflow scenarios.
-
-- Code: https://github.com/donnyphi/donnyphi-rx-entry-sim
-- Live app: https://donnyphi-rx-lab.streamlit.app/
-
-### DoseDrill
-
-A Streamlit app that helps pharmacy technician students practice dosage calculations and certification-style pharmacy math.
-
-- Code: https://github.com/donnyphi/pharmtech-math-lab
-- Live app: https://donnyphi-dose-drill.streamlit.app/
+## Projects
 
 ### Lone Star Academics
+Co-founded a contest-prep platform for Texas high schoolers competing in UIL and TMSCA science. Grew it to paying subscribers and school district licenses. No longer actively running it.
 
-An education platform for academic competition practice and student learning.
+- Site: https://www.lonestaracademics.com/
+- Repo is private (question bank and product logic)
 
-- Live site: https://www.lonestaracademics.com/
-- Repo: private because it contains proprietary question-bank infrastructure and product logic
+### Rx Entry Simulator
+Streamlit simulator for pharmacy technician students to practice prescription entry, label reading, and common pharmacy workflows, with field-by-field feedback and review tracking.
 
-## Tech I’m Using
+- Code: https://github.com/donnyphi/donnyphi-rx-entry-sim
+- Live: https://donnyphi-rx-lab.streamlit.app/
 
-Python, Streamlit, GitHub, and Claude Code/Codex CLI
+### DoseDrill
+Practice app for pharmacy tech dosage calculations and certification-style math.
 
-## Current Focus
+- Code: https://github.com/donnyphi/pharmtech-math-lab
+- Live: https://donnyphi-dose-drill.streamlit.app/
 
-- Building education tools
-- Preparing for MIT
-- Learning CS fundamentals
-- Exploring math, AI, and startups
+## Tech
+Python, C++, Streamlit, Git
+
+## Right now
+- Physics + CS coursework at MIT
+- Working toward quant SWE
+- MIT AI Alignment (MAIA)
