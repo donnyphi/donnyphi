@@ -5,7 +5,7 @@ MIT '30 studying Physics and Computer Science (6-4). I'm into quant, physics, an
 ## Projects
 
 ### Lone Star Academics
-Co-founded a contest-prep platform for Texas high schoolers competing in UIL and TMSCA science. Grew it to paying subscribers and school district licenses. No longer actively running it.
+Co-founded a contest-prep platform for Texas high schoolers competing in UIL and TMSCA science.
 
 - Site: https://www.lonestaracademics.com/
 - Repo is private (question bank and product logic)
