@@ -1,7 +1,3 @@
-# Hi, I'm Donny 👋
-
-MIT '30 studying Physics and Computer Science (6-4). I'm into quant, physics, and building software people actually use.
-
 ## Projects
 
 ### Lone Star Academics
