@@ -24,8 +24,3 @@ Practice app for pharmacy tech dosage calculations and certification-style math.
 
 ## Tech
 Python, C++, Streamlit, Git
-
-## Right now
-- Physics + CS coursework at MIT
-- Working toward quant SWE
-- MIT AI Alignment (MAIA)
