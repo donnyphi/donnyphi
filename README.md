@@ -19,4 +19,4 @@ Practice app for pharmacy tech dosage calculations and certification-style math.
 - Live: https://donnyphi-dose-drill.streamlit.app/
 
 ## Tech
-Python, C++, Streamlit, Git
+Python, C++
